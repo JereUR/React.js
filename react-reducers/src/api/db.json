@@ -1,0 +1,74 @@
+{
+  "agentes": [
+    {
+      "id": 1,
+      "name": "KillJoy",
+      "type": "Centinela"
+    },
+    {
+      "id": 2,
+      "name": "Chamber",
+      "type": "Centinela"
+    },
+    {
+      "id": 3,
+      "name": "Jett",
+      "type": "Duelista"
+    },
+    {
+      "id": 4,
+      "name": "Yoru",
+      "type": "Duelista"
+    },
+    {
+      "id": 5,
+      "name": "Raze",
+      "type": "Duelista"
+    },
+    {
+      "id": 6,
+      "name": "Astra",
+      "type": "Controlador"
+    },
+    {
+      "id": 7,
+      "name": "Brimstone",
+      "type": "Controlador"
+    },
+    {
+      "id": 8,
+      "name": "Cypher",
+      "type": "Centinela"
+    },
+    {
+      "id": 9,
+      "name": "Kayo",
+      "type": "Iniciador"
+    },
+    {
+      "id": 10,
+      "name": "Neon",
+      "type": "Duelista"
+    },
+    {
+      "id": 11,
+      "name": "Omen",
+      "type": "Controlador"
+    },
+    {
+      "id": 12,
+      "name": "Phoenix",
+      "type": "Duelista"
+    },
+    {
+      "name": "Reyna ",
+      "type": "Duelista",
+      "id": 1643408975075
+    },
+    {
+      "name": "Breach",
+      "type": "Iniciador",
+      "id": 1643491616821
+    }
+  ]
+}
